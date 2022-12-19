@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3lVsBb5zYRf8iiURJu2AsiiZ1fH/Q+VZEauYf8ydlbe0pKQdUvIibk03J5JaiKXdMAwIW7PZ3/cLc7M51XqZQ==",
+  "success": true,
+  "projectFilePath": "/home/aziz/Desktop/dotnet-api/min_api/min_api.csproj",
+  "expectedPackageFiles": [
+    "/home/aziz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/aziz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/aziz/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/home/aziz/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512",
+    "/home/aziz/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/aziz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/aziz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/aziz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

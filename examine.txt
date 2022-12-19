@@ -1,0 +1,13 @@
+Part of speech = verb
+Definition = To observe or inspect carefully or critically
+Example = He examined the crime scene for clues.
+Synonyms
+Definition = To check the health or condition of something or someone
+Example = The doctor examined the patient.
+Synonym
+Definition = To determine the aptitude, skills or qualifications of someone by subjecting them to an examination
+Synonym
+Definition = To interrogate
+Example = The witness was examined under oath.
+Synonym
+-----------------------------------------------------
